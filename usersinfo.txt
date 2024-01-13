@@ -1,0 +1,8 @@
+Female       ,58,160,20,  Lose Weight  ,end
+  Male         ,68,169,20, Build Muscle ,end
+Female       ,60,168,18,  Lose Weight  ,end
+Female       ,55,170,21,  Lose Weight  ,end
+Female       ,49,159,19,  Lose Weight  ,end
+  Male         ,58,178,19,Maintain Weight,end
+  Male         ,49,155,14, Build Muscle ,end
+         Male         ,80,176,19,Maintain Weight,end
